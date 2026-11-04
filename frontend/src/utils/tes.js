@@ -1,0 +1,1 @@
+export const pesanTes = 'Tailwind dan alias @ berhasil dipasang!'
